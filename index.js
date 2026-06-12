@@ -1,6 +1,5 @@
 // varibables
 
-/*
 const accounId = 145369
 let accountEmail = "vipulgoogle.com"
 var accountpass = "12456"
@@ -24,11 +23,9 @@ const v = 23
 const t = 65
 const k = v + t 
 console.log(k);
-*/
 
 // Fucntion
-
-/*var v = 10
+var v = 10
 
 function t() {
     var v = 100
@@ -43,8 +40,6 @@ function k() {
 t();
 k();
 console.log(v);
-
-
 
 let x = 10
 
@@ -64,7 +59,6 @@ console.log(x);
 y();
 z();
 
-
 const a = 500
 
 a = 600
@@ -72,7 +66,6 @@ a = 600
 b = 20
 
 console.log(b)
-
 
 // Closures
 
@@ -88,5 +81,3 @@ function z() {
     x();
 }
 z();
-*/
-
