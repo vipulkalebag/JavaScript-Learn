@@ -12,3 +12,12 @@ let isLoggedIn = true  //boolean - yes/false
 console.log(typeof name);
 console.log(typeof age);
 console.log(typeof isLoggedIn);
+
+
+// Datatype summary
+
+//Primary
+// 7 Types : String , Number , Boolean , null , undefined , symbol and bigInt
+ 
+//Non Primitive
+// Array , Objects and Function
